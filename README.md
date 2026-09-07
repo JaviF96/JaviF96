@@ -23,7 +23,7 @@ I'm looking for a 12-month placement in data, ML or software engineering for 202
 
 **[Application Feedback Coach](https://github.com/JaviF96/gradlaunch_coach)**: a four-agent pipeline that scores draft job-application answers against a real coaching rubric and rewrites the weak parts. Currently in beta with real clients.
 
-**PulseGo**: a local-first medical-courier routing app, built in 24 hours at NVIDIA's Hack for Impact hackathon, running on local NVIDIA hardware. I built the voice interface.
+**[PulseGo](https://github.com/lukataylo/RLJ)**: a local-first medical-courier routing app, built in 24 hours at NVIDIA's Hack for Impact hackathon, running on local NVIDIA hardware. I built the voice interface.
 
 ---
 

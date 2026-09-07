@@ -19,9 +19,9 @@ I'm looking for a 12-month placement in data, ML or software engineering for 202
 
 ### Things I've built
 
-**[RAG Inspector](https://github.com/JaviF96/rag-inspector)**: a hybrid-search RAG pipeline built from scratch, no LangChain, with a frontend that shows every stage of how an answer actually got produced. 13/13 on my own retrieval test set, 0.962 mean reciprocal rank.
+**[RAG Inspector](https://github.com/JaviF96/rag-project)**: a hybrid-search RAG pipeline built from scratch, no LangChain, with a frontend that shows every stage of how an answer actually got produced. 13/13 on my own retrieval test set, 0.962 mean reciprocal rank.
 
-**[Application Feedback Coach](https://github.com/JaviF96/application-feedback-coach)**: a four-agent pipeline that scores draft job-application answers against a real coaching rubric and rewrites the weak parts. Currently in beta with real clients.
+**[Application Feedback Coach](https://github.com/JaviF96/gradlaunch_coach)**: a four-agent pipeline that scores draft job-application answers against a real coaching rubric and rewrites the weak parts. Currently in beta with real clients.
 
 **PulseGo**: a local-first medical-courier routing app, built in 24 hours at NVIDIA's Hack for Impact hackathon, running on local NVIDIA hardware. I built the voice interface.
 

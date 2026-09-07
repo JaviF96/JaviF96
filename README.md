@@ -26,6 +26,7 @@ I'm looking for a 12-month placement in data, ML or software engineering for 202
 **[PulseGo](https://github.com/lukataylo/RLJ)**: a local-first medical-courier routing app, built in 24 hours at NVIDIA's Hack for Impact hackathon, running on local NVIDIA hardware. I built the voice interface.
 
 **[UniMap](https://github.com/illiaputintsev/unimap)**: An AI-powered learning platform that generates personalised academic roadmaps for university students. Built in 24 hours at HackLondon, I worked on the backend.
+
 ---
 
 ### A bit more

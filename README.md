@@ -2,7 +2,7 @@
 
 I'm a second-year Artificial Intelligence student at King's College London, studying with a Year in Industry.
 
-I like building things end to end rather than just the model or just the interface. This year that's meant a hybrid-search RAG pipeline built from scratch and a four-agent feedback tool now running in production for a real coaching business. I'm proudest of the projects where something broke, I worked out why, and fixed it properly instead of working around it.
+I like building things end to end rather than just the model or just the interface. This year that's meant a hybrid-search RAG pipeline built from scratch, deliberately without LangChain, and a four-agent feedback tool now running in production for a real coaching business. I'm proudest of the projects where something broke, I worked out why, and fixed it properly instead of working around it.
 
 I'm looking for a 12-month placement in software engineering, AI engineering, ML engineering or data science for 2027/28, ideally in London.
 

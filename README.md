@@ -20,6 +20,9 @@ I'm looking for a 12-month placement in software engineering, AI engineering, ML
 
 ### Things I've built
 
+**[Lantern](https://github.com/alwxngn/HackMITdog)**
+A robot companion and caregiver dashboard co-developed at HackMIT, exploring support for families caring for someone with dementia. I owned the backend and voice integration, using Deepgram and ElevenLabs for two-way caregiver check-ins. Built a mobile browser interface connected through a Cloudflare tunnel so a phone could provide the robot’s missing microphone and speaker functionality. 
+
 **[RAG Inspector](https://github.com/JaviF96/rag-project)**  
 A hybrid-search RAG pipeline built from scratch, combining vector and keyword search, reciprocal rank fusion and reranking. The React frontend exposes each stage of retrieval and generation, including a verification pass that checks whether answers are grounded in the retrieved context. Supports PDF uploads with session-based document privacy.
 

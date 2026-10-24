@@ -29,6 +29,10 @@ A hybrid-search RAG pipeline built from scratch, combining vector and keyword se
 **[Application Feedback Coach](https://github.com/JaviF96/gradlaunch_coach)**  
 Built for GradLaunch and deployed with five clients in beta. A four-agent pipeline evaluates application answers against the business's coaching rubric and suggests targeted rewrites, using explicit placeholders wherever a stronger answer needs details the applicant hasn't supplied.
 
+**[HedgeHog](https://github.com/odoiadrian/hedge-investment)**  
+A portfolio decision-support prototype for small hedge funds. I orchestrated the pipeline connecting client preferences, Yahoo Finance data and our quantitative optimiser, using an LLM to interpret investment constraints and explain three $100,000 portfolio alternatives. I also integrated an MCP server to refresh market data and company announcements, flagging developments requiring analyst review.
+
+
 **[PulseGo](https://github.com/lukataylo/RLJ)**  
 A medical courier platform co-developed at NVIDIA's Hack for Impact, combining local Nemotron agents with GPU route optimisation on DGX Spark hardware. I built the ElevenLabs voice interface and connected it to the frontend and backend so users could submit spoken delivery requests.
 
